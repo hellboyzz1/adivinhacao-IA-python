@@ -8,7 +8,6 @@ acertou = False
 print("Bem vindo ao meu jogo.")
 print("Tente adivinhar o numero em que pensei. ")
 
-#pedir um loop para o usuario tentar adivinhar.
 
 while not acertou:
     try:
